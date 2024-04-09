@@ -33,3 +33,19 @@ In this repository, the owner shares code implementations from their scientific 
 
 
 -------------------------------------------------------------------------------------------------------------------------------
+
+**Title**: Efficient Controlled Quantum Broadcast Protocol using 6n-Qubit Cluster State in Noisy Quantum Channels
+
+**Authors**: Yousef Mafi. Payman Kazemikhah. Armin Ahmadkhaniha. Hossein Aghababa. Mohammadreza Kolahdouz.
+
+**Journal**: Optical and Quantum Electronics
+
+**Year**: 2023
+
+**Code list**:
+* Controlled_Quantum_Broadcasting.ipynb (Python code)
+* Controlled_Quantum_Broadcasting_Noisey_Channel.ipynb (Python code)
+* Controlled_Quantum_Broadcasting_Noise_Analysis.zip (Matlab code)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
