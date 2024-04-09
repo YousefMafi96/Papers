@@ -1,10 +1,10 @@
-# Papers
+# Papers 
 
 In this repository, the owner shares code implementations from their scientific publications. All publications are categorized based on their names and classes, which encompass quantum communication, quantum information processing, quantum algorithms, and quantum machine learning.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-**Title**: Quantum Broadcasting of An Arbitary n-Qubit Cluster State: Quantum Noise Analysis Using Quantum State Tomography Via IBMQ Simulation
+# Quantum Broadcasting of An Arbitary n-Qubit Cluster State: Quantum Noise Analysis Using Quantum State Tomography Via IBMQ Simulation
 
 **Authors**: Yousef Mafi. Ali Kookani. Hossein Aghababa. Masoud Barati. Mohammadreza Kolahdouz
 
@@ -19,7 +19,7 @@ In this repository, the owner shares code implementations from their scientific 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-**Title**: Bidirectional Quantum Controlled Teleportation in Multihop Network: A Generalized Protocol for the Arbitrary n-Qubits State through the Noisy Channel
+# Bidirectional Quantum Controlled Teleportation in Multihop Network: A Generalized Protocol for the Arbitrary n-Qubits State through the Noisy Channel
 
 **Authors**: Yousef Mafi. Ali Kookani. Hossein Aghababa. Masoud Barati. Mohammadreza Kolahdouz
 
@@ -34,7 +34,7 @@ In this repository, the owner shares code implementations from their scientific 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-**Title**: Efficient Controlled Quantum Broadcast Protocol using 6n-Qubit Cluster State in Noisy Quantum Channels
+# Efficient Controlled Quantum Broadcast Protocol using 6n-Qubit Cluster State in Noisy Quantum Channels
 
 **Authors**: Yousef Mafi. Payman Kazemikhah. Armin Ahmadkhaniha. Hossein Aghababa. Mohammadreza Kolahdouz.
 
