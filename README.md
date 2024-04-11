@@ -49,3 +49,17 @@ In this repository, the owner shares code implementations from their scientific 
 
 
 -------------------------------------------------------------------------------------------------------------------------------
+
+# Enhancing Quantum Teleportation: An Enable-Based Protocol Exploiting Distributed Quantum Gates
+
+**Authors**: Armin Ahmadkhaniha. Yousef Mafi. Payman Kazemikhah. Hossein Aghababa. Masoud Barati. Mohammadreza Kolahdouz
+
+**Journal**: Optical and Quantum Electronics
+
+**Year**: 2023
+
+**Code list**:
+* Enhancing Quantum Teleportation.ipynb (Python code)
+ 
+
+-------------------------------------------------------------------------------------------------------------------------------
