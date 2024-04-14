@@ -15,4 +15,4 @@ In this repository, the owner shares code implementations from their scientific 
 * Grovers Search Algorithm .ipynb (Python code)
 * GRK Partial QuantumSearch Algorithm.ipynb (Python code)
 * QGRK Partial and Grovers Quantum Search Algorithm without Subsystems.ipynb (Python code)
-* QuantumSearch Algorithm Noise analysis.ipynb (Matlab code)
+* Quantum_Search_Algorithm_Noise_analysis.zip (Matlab code)
