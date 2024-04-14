@@ -63,3 +63,32 @@ In this repository, the owner shares code implementations from their scientific 
  
 
 -------------------------------------------------------------------------------------------------------------------------------
+
+# Bidirectional quantum teleportation of an arbitrary number of qubits over a noisy quantum system using 2n Bell states as quantum channel
+
+**Authors**: Yousef Mafi. Payman Kazemikhah. Armin Ahmadkhaniha. Hossein Aghababa. Mohammadreza Kolahdouz.
+
+**Journal**: Optical and Quantum Electronics
+
+**Year**: 2022
+
+**Code list**:
+* Bidirectional quantum teleportation of n1 qubit.ipynb (Python code)
+* Bidirectional quantum teleportation of n2 qubit.ipynb (Python code)
+ 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+# Asymmetric Bidirectional Controlled Quantum Teleportation Using Eight Qubit Cluster State
+
+**Authors**: Payman Kazemikhah. Mohammadjavad Bouloorchi Tabalvandani. Yousef Mafi. Hossein Aghababa.
+
+**Journal**: International Journal of Theoretical Physics
+
+**Year**: 2022
+
+**Code list**:
+* Asymmetric Bidirectional Controlled Quantum Teleportation.ipynb (Python code)
+ 
+
+-------------------------------------------------------------------------------------------------------------------------------
